@@ -1,0 +1,46 @@
+[
+  {
+    "clueID": 1,
+    "clueText": "The hunt begins with golden arches.",
+    "clueHint": "Not McDonald's, think Golden State Warriors.",
+    "clueLocation": {
+      "locLatitude": 37.8199109,
+      "locLongitude": -122.4785598,
+      "locName": "Golden Gate Bridge"
+    },
+    "clueInfo": "Each year the Golden Gate Bridge attracts more than 10 million visitors to take in its tremendous 746-foot tall towers, sweeping main cables, signature International Orange color and Art Deco styling. It is a sensory experience featuring color, light and sound."
+  },
+  {
+    "clueID": 2,
+    "clueText": "Next climb to a good vantage point at a place of previous controversy.",
+    "clueHint": "Historic part of the San Francisco skyline, Towering above the city.",
+    "clueLocation": {
+      "locLatitude": 37.8023949,
+      "locLongitude": -122.4058222,
+      "locName": "Coit Tower"
+    },
+    "clueInfo": "Coit Tower, a slender white concrete column rising from the top of Telegraph Hill, has been an emblem of San Francisco’s skyline since its completion in 1933, a welcoming beacon to visitors and residents alike. Its observation deck, reached by elevator (tickets can be purchased in the gift shop), provides 360-degree views of the city and bay, including the Golden Gate and Bay bridges."
+  },
+  {
+    "clueID": 3,
+    "clueText": "Look North but not too close, you don't want to get bit.",
+    "clueHint": "What do you get when you add an electron to a pinniped? A seal-ion! ",
+    "clueLocation": {
+      "locLatitude": 37.8107757,
+      "locLongitude": -122.411273,
+      "locName": "Pier 39"
+    },
+    "clueInfo": "Since 1990, a colony of curious, charismatic sea lions has called PIER 39 home—charming visitors with their playful antics and hearty barks."
+  },
+  {
+    "clueID": 4,
+    "clueText": "End your search with something sweet and of Italian origin.",
+    "clueHint": "Domenico Ghiradelli may not have found gold, but he made something much better!",
+    "clueLocation": {
+      "locLatitude": 37.8059485,
+      "locLongitude": -122.4229383,
+      "locName": "Ghiradelli Chocolate Experience"
+    },
+    "clueInfo": "At Ghirardelli Square, the legend lives on at Ghirardelli Chocolate Experience. The store is vibrant and welcoming, rooted in the rich heritage of San Francisco. Indulge in the ultimate chocolate experience, where Ghirardelli’s passion for chocolate has expanded into decadent hot fudge sundaes, with handmade hot fudge made fresh daily from Ghirardelli Chocolate. On your way out, don’t forget to explore signature chocolate SQUARES, bars, baking, gifts and more."
+  }
+]
